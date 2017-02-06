@@ -1,0 +1,21 @@
+body {
+}
+#map {
+  width: 100%;
+  height: calc(90vh - 2em);
+  background-image: url('map.png');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+}
+#player {
+  width: 64px;
+  height: 64px;
+  position: absolute;
+}
+h1 {
+  display: inline;
+  margin: 0;
+  padding: 0;
+  background-color: yellow;
+}
